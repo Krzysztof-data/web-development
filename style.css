@@ -1,0 +1,26 @@
+.hero {
+	background-image: url(http://seniornawakacjach.pl/sites/all/files/Real%20Madryt%20-%20FC%20Barcelona1.jpeg?1357678249);
+	background-position: center;
+}
+.btn-primary {
+  margin-top: 50px;
+}
+.hero {
+	height: 500px;
+}
+h1 {
+	padding-top: 150px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 40px;
+}
+.img-responsive {
+	margin-top: 20px;
+}
+.table {
+  margin-top: 20px;
+}
+h1 > small {
+	color: #FFFFFF;
+	font-weight: bold;
+}
