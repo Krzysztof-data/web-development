@@ -1,0 +1,33 @@
+{
+  "name": "kodilla-grunt-prostastrona",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "Grunfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^1.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrzysztofSadowski/web-development.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Krzysztof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrzysztofSadowski/web-development/issues"
+  },
+  "homepage": "https://github.com/KrzysztofSadowski/web-development#readme"
+}
